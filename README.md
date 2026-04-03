@@ -33,6 +33,29 @@ npm run publish:report -- ./tmp/2026-04-10.json
 
 The script validates the report structure, rejects duplicate slugs, and writes the report into `content/reports/`.
 
+## Fully automate weekly publishing
+
+If the weekly automation already generates a valid JSON report file, use:
+
+```bash
+npm run publish:weekly -- ./tmp/2026-04-10.json
+```
+
+That command will:
+
+- validate and copy the report into `content/reports/`
+- re-run full report validation
+- run a production build
+- commit the new report file
+- push to `origin/main`
+
+Useful flags:
+
+```bash
+npm run publish:weekly -- ./tmp/2026-04-10.json --skip-push
+npm run publish:weekly -- ./tmp/2026-04-10.json --commit-message "Add weekly report for 2026-04-10"
+```
+
 After that:
 
 ```bash

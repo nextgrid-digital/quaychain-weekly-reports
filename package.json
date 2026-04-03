@@ -9,7 +9,8 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "validate:reports": "node scripts/validate-reports.mjs",
-    "publish:report": "node scripts/publish-report.mjs"
+    "publish:report": "node scripts/publish-report.mjs",
+    "publish:weekly": "node scripts/publish-weekly-report.mjs"
   },
   "dependencies": {
     "next": "15.5.14",
