@@ -1,0 +1,231 @@
+{
+  "slug": "2026-03-23",
+  "title": "Weekly Logistics Infrastructure Intelligence Report",
+  "weekOf": "March 23, 2026",
+  "publishedAt": "2026-03-23T07:00:00.000Z",
+  "executiveSummary": [
+    "Terminal assets continue to attract long-duration capital, led by the Stonepeak-CMA CGM platform transaction.",
+    "Private 5G deployments are moving deeper into automation-heavy port environments in the UK and freeport settings.",
+    "Completed modernization at Saint John is now producing measurable throughput gains, giving investors a live benchmark.",
+    "Disruption costs remain embedded in shipping networks through surcharges, congestion, and schedule instability."
+  ],
+  "marketSignals": {
+    "summary": "This week's highest-signal developments combine hard-asset capital allocation with operational proof points and persistent freight-network fragility.",
+    "columns": [
+      "Headline",
+      "Summary",
+      "Why investors should pay attention",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Headline": "Stonepeak-CMA CGM terminal platform remains the lead capital signal",
+        "Summary": "Stonepeak is investing $2.4 billion for a 25% stake in United Ports LLC, a 10-terminal JV with CMA CGM.",
+        "Why investors should pay attention": "Confirms continuing demand for scarce terminal assets with long-duration cash-flow potential.",
+        "Source": {
+          "label": "Stonepeak",
+          "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+        }
+      },
+      {
+        "Headline": "Port Saint John reports modernization-driven volume growth",
+        "Summary": "DP World reported 29.4% container volume growth in 2025 at Port Saint John following the CAD$247 million modernization project.",
+        "Why investors should pay attention": "Provides a live example of modernization capital translating into measurable throughput growth.",
+        "Source": {
+          "label": "DP World / GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/10/3252884/0/en/DP-World-s-Port-Saint-John-Terminal-Drives-29-Container-Volume-Growth-in-2025.html"
+        }
+      }
+    ]
+  },
+  "capitalFlow": {
+    "summary": "Capital continues to cluster around infrastructure-grade logistics assets, grant-backed modernization, and networks with visible operating leverage.",
+    "columns": [
+      "Company or asset",
+      "Investor or buyer",
+      "Amount if known",
+      "Strategic implication",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Company or asset": "United Ports LLC",
+        "Investor or buyer": "Stonepeak + CMA CGM",
+        "Amount if known": "$2.4B from Stonepeak for 25% stake",
+        "Strategic implication": "Reinforces terminal platforms as core infrastructure allocation targets.",
+        "Source": {
+          "label": "Stonepeak",
+          "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+        }
+      }
+    ]
+  },
+  "technologyDeployments": {
+    "summary": "The strongest deployment signals come from private 5G and AI systems being implemented in environments where reliability, automation, and safety directly affect asset performance.",
+    "columns": [
+      "Deployment",
+      "Location",
+      "Technology",
+      "Operator or sponsor",
+      "Operational impact",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Deployment": "Private 5G across three UK ports",
+        "Location": "Felixstowe, Harwich, London Thamesport",
+        "Technology": "Private 5G",
+        "Operator or sponsor": "Three Group Solutions / Hutchison Ports UK",
+        "Operational impact": "Supports autonomous vehicles, remote cranes, and other automation-heavy workflows.",
+        "Source": {
+          "label": "Three Group Solutions",
+          "url": "https://groupsolutions.three.com/insights/three-group-solutions-completes-private-5g-network"
+        }
+      }
+    ]
+  },
+  "risks": {
+    "summary": "Disruption risk remains broad rather than isolated, affecting terminal utilization, working-capital assumptions, fuel pass-through, and the value of resilience-oriented upgrades.",
+    "columns": [
+      "Event",
+      "Region",
+      "Potential logistics impact",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Event": "Yard density and terminal pressure across Europe",
+        "Region": "North Europe and Mediterranean",
+        "Potential logistics impact": "Longer dwell times, delayed cargo clearance, and schedule instability.",
+        "Source": {
+          "label": "Maersk Europe Update",
+          "url": "https://www.maersk.com/fr-fr/news/articles/2026/03/05/europe-market-update-march"
+        }
+      }
+    ]
+  },
+  "narratives": {
+    "summary": "The investor narrative is tightening around assets with hard operating relevance and technologies that can prove performance in live environments.",
+    "columns": [
+      "Narrative theme",
+      "Supporting signals",
+      "Why investors care"
+    ],
+    "rows": [
+      {
+        "Narrative theme": "Terminal infrastructure remains a preferred allocation",
+        "Supporting signals": "Stonepeak-CMA CGM JV",
+        "Why investors care": "Scarce gateway assets continue to attract large-scale institutional capital."
+      }
+    ]
+  },
+  "andrewLinkedInPost": {
+    "title": "From modernization spend to operating proof",
+    "body": "One of the clearest logistics infrastructure signals this week is that modernization is starting to show up in operating results, not just in project announcements. DP World's report of nearly 30% container volume growth at Port Saint John after its modernization program is important because it shows what infrastructure investment looks like when it moves from capex story to throughput story."
+  },
+  "quaychainPost": {
+    "title": "Weekly infrastructure signal",
+    "body": "Modernization capital is still moving, private 5G deployments are supporting more automation-heavy port environments, and completed infrastructure upgrades are starting to produce measurable throughput gains."
+  },
+  "engagementTopics": {
+    "summary": "The strongest discussion areas are the ones where Andrew can add an infrastructure and execution lens rather than a vendor narrative.",
+    "columns": [
+      "Topic",
+      "Link",
+      "Why it matters",
+      "Suggested comment"
+    ],
+    "rows": [
+      {
+        "Topic": "Terminal infrastructure transactions",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/content/?keywords=Stonepeak%20CMA%20CGM%20terminals"
+        },
+        "Why it matters": "Investors are still discussing terminal valuation, control, and asset scarcity.",
+        "Suggested comment": "This continues to look like an asset-quality and strategic-location story, with institutional capital following infrastructure that is difficult to replicate."
+      }
+    ]
+  },
+  "communities": {
+    "summary": "Public LinkedIn communities and pages remain the most reliable channels for investor-adjacent visibility.",
+    "columns": [
+      "Community",
+      "Size",
+      "Link",
+      "Why relevant"
+    ],
+    "rows": [
+      {
+        "Community": "CSCMP",
+        "Size": "87,605 followers",
+        "Link": {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/cscmp"
+        },
+        "Why relevant": "Strong supply chain and infrastructure audience with analyst overlap."
+      }
+    ]
+  },
+  "outreachTargets": {
+    "summary": "These are the most relevant investor and analyst targets for the week's signal set.",
+    "columns": [
+      "Name",
+      "Role",
+      "Organization",
+      "Link",
+      "Why relevant"
+    ],
+    "rows": [
+      {
+        "Name": "James Wyper",
+        "Role": "Senior Managing Director, Transport & Logistics",
+        "Organization": "Stonepeak",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/people/?keywords=James%20Wyper%20Stonepeak"
+        },
+        "Why relevant": "Closely tied to the lead infrastructure-capital transaction."
+      }
+    ]
+  },
+  "newsletterIdea": {
+    "title": "From Modernization Spend to Operating Proof in Logistics Infrastructure",
+    "description": "A weekly briefing connecting terminal capital, public funding, private 5G deployment, and early evidence of modernization translating into throughput gains.",
+    "whyInvestorsShouldRead": "It keeps the focus on durable infrastructure outcomes and post-rollout execution quality."
+  },
+  "executionChecklist": [
+    {
+      "day": "Monday",
+      "actions": [
+        "Publish Andrew LinkedIn post."
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "actions": [
+        "Engage in terminal JV discussion threads."
+      ]
+    },
+    {
+      "day": "Friday",
+      "actions": [
+        "Send outreach to 2-3 targets with a message focused on durable operating performance."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Stonepeak / CMA CGM terminal JV",
+      "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+    },
+    {
+      "label": "DP World Port Saint John volume growth",
+      "url": "https://www.globenewswire.com/news-release/2026/03/10/3252884/0/en/DP-World-s-Port-Saint-John-Terminal-Drives-29-Container-Volume-Growth-in-2025.html"
+    },
+    {
+      "label": "The Supply Chainer on AI after the pilot",
+      "url": "https://www.thesupplychainer.com/post/opinion-ai-rollouts-in-logistics-what-actually-happens-after-the-pilot"
+    }
+  ]
+}

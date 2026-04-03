@@ -1,0 +1,222 @@
+{
+  "slug": "2026-04-03",
+  "title": "Weekly Logistics Infrastructure Intelligence Report",
+  "weekOf": "April 3, 2026",
+  "publishedAt": "2026-04-03T07:00:00.000Z",
+  "executiveSummary": [
+    "Terminal infrastructure and public port funding continue to provide the clearest capital signals in logistics.",
+    "Private 5G and AI deployments are becoming useful only where they survive the move from pilot to operating workflow.",
+    "Middle East and Red Sea disruption remain underwriting considerations for logistics-linked assets.",
+    "The site is now structured so every weekly report can publish as a new immutable URL."
+  ],
+  "marketSignals": {
+    "summary": "This sample report demonstrates the stable content contract the automation will write each week.",
+    "columns": [
+      "Headline",
+      "Summary",
+      "Why investors should pay attention",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Headline": "Dedicated report site architecture approved",
+        "Summary": "QuayChain is moving to a GitHub-backed, Vercel-deployed publishing model for weekly intelligence.",
+        "Why investors should pay attention": "Creates a stable archive and consistent client-facing reporting surface.",
+        "Source": {
+          "label": "Vercel docs",
+          "url": "https://vercel.com/docs/deployments/git/vercel-for-github"
+        }
+      }
+    ]
+  },
+  "capitalFlow": {
+    "summary": "Capital continues to cluster around infrastructure-grade logistics assets, grant-backed modernization, and networks with visible operating leverage.",
+    "columns": [
+      "Company or asset",
+      "Investor or buyer",
+      "Amount if known",
+      "Strategic implication",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Company or asset": "United Ports LLC",
+        "Investor or buyer": "Stonepeak + CMA CGM",
+        "Amount if known": "$2.4B from Stonepeak for 25% stake",
+        "Strategic implication": "Reinforces terminal platforms as core infrastructure allocation targets.",
+        "Source": {
+          "label": "Stonepeak",
+          "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+        }
+      }
+    ]
+  },
+  "technologyDeployments": {
+    "summary": "The template supports real-world deployment tracking without changing application code.",
+    "columns": [
+      "Deployment",
+      "Location",
+      "Technology",
+      "Operator or sponsor",
+      "Operational impact",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Deployment": "Multi-site private 5G rollout",
+        "Location": "Thames Freeport, UK",
+        "Technology": "Private 5G + industrial edge foundation",
+        "Operator or sponsor": "Verizon + Nokia + Thames Freeport",
+        "Operational impact": "Builds a connectivity layer for automation, AI, and real-time coordination across logistics sites.",
+        "Source": {
+          "label": "Verizon",
+          "url": "https://www.verizon.com/about/news/verizon-business-wins-multisite-private-5g-contract"
+        }
+      }
+    ]
+  },
+  "risks": {
+    "summary": "The report model includes disruption tracking because freight instability remains part of infrastructure diligence.",
+    "columns": [
+      "Event",
+      "Region",
+      "Potential logistics impact",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Event": "Middle East disruption",
+        "Region": "Gulf and Red Sea",
+        "Potential logistics impact": "Persistent rerouting, cost pass-through, and schedule instability.",
+        "Source": {
+          "label": "Maersk",
+          "url": "https://www.maersk.com/stay-ahead"
+        }
+      }
+    ]
+  },
+  "narratives": {
+    "summary": "The rendering layer expects stable narrative keys and a concise investor framing every week.",
+    "columns": [
+      "Narrative theme",
+      "Supporting signals",
+      "Why investors care"
+    ],
+    "rows": [
+      {
+        "Narrative theme": "Post-pilot execution is the key filter",
+        "Supporting signals": "Private 5G and AI deployments in live terminal settings",
+        "Why investors care": "Scalable value capture depends on operating integration, not pilot success."
+      }
+    ]
+  },
+  "andrewLinkedInPost": {
+    "title": "Why this publishing model matters",
+    "body": "We have now structured the weekly logistics infrastructure report so it can publish as a durable, archived intelligence product rather than a one-off document. That matters because the value of these reports is not just in the weekly signal set, but in the accumulated record of how infrastructure capital, deployment quality, and disruption evolve over time."
+  },
+  "quaychainPost": {
+    "title": "Autonomous weekly publishing",
+    "body": "This site is designed so each weekly report is published as a new content file, deployed automatically, and preserved as part of a searchable archive. The result is a more durable client-facing intelligence product."
+  },
+  "engagementTopics": {
+    "summary": "The strongest discussion areas are the ones where Andrew can add an infrastructure and execution lens rather than a vendor narrative.",
+    "columns": [
+      "Topic",
+      "Link",
+      "Why it matters",
+      "Suggested comment"
+    ],
+    "rows": [
+      {
+        "Topic": "Terminal infrastructure transactions",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/content/?keywords=Stonepeak%20CMA%20CGM%20terminals"
+        },
+        "Why it matters": "Investors are still discussing terminal valuation, control, and asset scarcity.",
+        "Suggested comment": "This continues to look like an asset-quality and strategic-location story, with institutional capital following infrastructure that is difficult to replicate."
+      }
+    ]
+  },
+  "communities": {
+    "summary": "Public communities and professional pages are the most stable distribution channels for investor-adjacent visibility.",
+    "columns": [
+      "Community",
+      "Size",
+      "Link",
+      "Why relevant"
+    ],
+    "rows": [
+      {
+        "Community": "Port Technology International",
+        "Size": "45k+ followers",
+        "Link": {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/porttechnologyinternational/"
+        },
+        "Why relevant": "Direct overlap with maritime infrastructure, terminal automation, and investor-facing commentary."
+      }
+    ]
+  },
+  "outreachTargets": {
+    "summary": "Outreach targets are stored structurally so the automation can update them each week without touching the app.",
+    "columns": [
+      "Name",
+      "Role",
+      "Organization",
+      "Link",
+      "Why relevant"
+    ],
+    "rows": [
+      {
+        "Name": "Peter Sand",
+        "Role": "Chief Analyst",
+        "Organization": "Xeneta",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/people/?keywords=Peter%20Sand%20Xeneta"
+        },
+        "Why relevant": "Useful contact for freight-rate, surcharge, and disruption interpretation."
+      }
+    ]
+  },
+  "newsletterIdea": {
+    "title": "How to turn weekly intelligence into a durable publishing product",
+    "description": "A short note on why immutable report archives matter for investor credibility and client delivery.",
+    "whyInvestorsShouldRead": "Historical continuity sharpens pattern recognition and keeps reporting auditable."
+  },
+  "executionChecklist": [
+    {
+      "day": "Monday",
+      "actions": [
+        "Generate the report JSON for the week."
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "actions": [
+        "Run the publish script to validate and write the new report file."
+      ]
+    },
+    {
+      "day": "Friday",
+      "actions": [
+        "Push the commit to GitHub so Vercel auto-deploys the updated site."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Vercel Git-based deployments",
+      "url": "https://vercel.com/docs/deployments/git/vercel-for-github"
+    },
+    {
+      "label": "Stonepeak / CMA CGM terminal JV",
+      "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+    },
+    {
+      "label": "Verizon Thames Freeport private 5G",
+      "url": "https://www.verizon.com/about/news/verizon-business-wins-multisite-private-5g-contract"
+    }
+  ]
+}
