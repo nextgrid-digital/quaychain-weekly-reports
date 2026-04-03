@@ -1,0 +1,491 @@
+{
+  "slug": "2026-04-02",
+  "title": "Weekly Logistics Infrastructure Intelligence Report",
+  "weekOf": "April 3, 2026",
+  "publishedAt": "2026-04-03T12:30:00.000Z",
+  "executiveSummary": [
+    "Terminal infrastructure continues to attract institutional capital, with the Stonepeak-CMA CGM platform still serving as the clearest hard-asset signal in the market.",
+    "Fresh U.S. federal port awards announced on March 26 reinforce that public capital remains an active accelerant for modernization and freight-corridor upgrades.",
+    "Private 5G deployments in UK port environments and freeport settings are increasingly being framed as operating infrastructure rather than innovation pilots.",
+    "Measured throughput gains at Port Saint John continue to give investors a live example of modernization translating into operating performance.",
+    "European congestion, Gulf-linked surcharges, and post-pilot AI execution risk keep resilience and implementation discipline central to underwriting."
+  ],
+  "marketSignals": {
+    "summary": "This week’s most relevant signals combine infrastructure capital, public-funding momentum, operating proof points, and continued freight-network fragility. For investors, the question is no longer whether logistics infrastructure remains attractive, but which assets and programs can convert capex into resilient performance.",
+    "columns": [
+      "Headline",
+      "Summary",
+      "Why investors should pay attention",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Headline": "Stonepeak-CMA CGM terminal platform remains the benchmark capital signal",
+        "Summary": "Stonepeak is investing $2.4 billion for a 25% stake in United Ports LLC, the 10-terminal joint venture formed with CMA CGM.",
+        "Why investors should pay attention": "It continues to confirm institutional demand for scarce gateway assets with long-duration cash-flow potential.",
+        "Source": {
+          "label": "Stonepeak",
+          "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+        }
+      },
+      {
+        "Headline": "U.S. DOT announces nearly half a billion dollars in port investment",
+        "Summary": "The U.S. Department of Transportation announced nearly $489 million in port-related investment across 31 projects on March 26, 2026.",
+        "Why investors should pay attention": "Fresh awards move modernization from funding intent to actual deployment and create clearer local execution pipelines.",
+        "Source": {
+          "label": "USDOT",
+          "url": "https://www.transportation.gov/briefing-room/trumps-transportation-department-announces-nearly-half-billion-investment-americas"
+        }
+      },
+      {
+        "Headline": "Port Saint John continues to provide modernization proof",
+        "Summary": "DP World reported 29.4% container volume growth in 2025 at Port Saint John following the CAD$247 million modernization program.",
+        "Why investors should pay attention": "It offers a measurable benchmark for how port capex can translate into throughput and network relevance.",
+        "Source": {
+          "label": "DP World / GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/03/10/3252884/0/en/DP-World-s-Port-Saint-John-Terminal-Drives-29-Container-Volume-Growth-in-2025.html"
+        }
+      },
+      {
+        "Headline": "New York port infrastructure solicitation remains active",
+        "Summary": "NYSERDA’s up to $300 million port and waterfront infrastructure program remains a visible state-level modernization signal.",
+        "Why investors should pay attention": "State funding windows continue to determine which projects become execution-ready first.",
+        "Source": {
+          "label": "NYSERDA",
+          "url": "https://www.nyserda.ny.gov/About/Newsroom/2025-Announcements/2025-12-19-300-Million-Announced-To-Support-Port-Infrastructure-Development"
+        }
+      },
+      {
+        "Headline": "Maersk flags continuing European network pressure in April update",
+        "Summary": "Maersk’s April Europe market update points to yard density, weather, and holiday-related pressure across North Europe and Mediterranean operations.",
+        "Why investors should pay attention": "Congestion and operational instability remain relevant to asset utilization, turnaround times, and resilience-oriented capex.",
+        "Source": {
+          "label": "Maersk Europe Update",
+          "url": "https://www.maersk.com/ja-jp/news/articles/2026/04/01/europe-market-update-april"
+        }
+      }
+    ]
+  },
+  "capitalFlow": {
+    "summary": "Capital continues to cluster around infrastructure-grade logistics assets, modernization programs backed by public funding, and network businesses with visible operating leverage. The notable pattern is that public and private capital are still reinforcing each other rather than substituting for one another.",
+    "columns": [
+      "Company or asset",
+      "Investor or buyer",
+      "Amount if known",
+      "Strategic implication",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Company or asset": "United Ports LLC",
+        "Investor or buyer": "Stonepeak + CMA CGM",
+        "Amount if known": "$2.4B from Stonepeak for 25% stake",
+        "Strategic implication": "Reinforces terminal platforms as core infrastructure allocation targets.",
+        "Source": {
+          "label": "Stonepeak",
+          "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+        }
+      },
+      {
+        "Company or asset": "31 U.S. port projects",
+        "Investor or buyer": "USDOT / MARAD",
+        "Amount if known": "$489M announced on March 26, 2026",
+        "Strategic implication": "Fresh federal awards support project sequencing and sharpen visibility into near-term U.S. port execution.",
+        "Source": {
+          "label": "USDOT",
+          "url": "https://www.transportation.gov/briefing-room/trumps-transportation-department-announces-nearly-half-billion-investment-americas"
+        }
+      },
+      {
+        "Company or asset": "U.S. Port Infrastructure Development Program",
+        "Investor or buyer": "MARAD / USDOT",
+        "Amount if known": "$450M FY2026 BIL funding",
+        "Strategic implication": "Maintains federal support for port and freight-corridor capex.",
+        "Source": {
+          "label": "MARAD PIDP",
+          "url": "https://www.maritime.dot.gov/PIDPgrants"
+        }
+      },
+      {
+        "Company or asset": "Port Saint John modernization program",
+        "Investor or buyer": "Government of Canada, Province of New Brunswick, Port Saint John, DP World",
+        "Amount if known": "CAD$247M project; CAD$75M+ DP World investment",
+        "Strategic implication": "Demonstrates funded modernization with measurable throughput and connectivity outcomes.",
+        "Source": {
+          "label": "Port Saint John",
+          "url": "https://www.sjport.com/news/port-saint-john-marks-modernization-completion"
+        }
+      },
+      {
+        "Company or asset": "New York port modernization portfolio",
+        "Investor or buyer": "NYSERDA / New York State",
+        "Amount if known": "Up to $300M",
+        "Strategic implication": "Public funding continues to accelerate infrastructure readiness and co-investment potential.",
+        "Source": {
+          "label": "NYSERDA",
+          "url": "https://www.nyserda.ny.gov/About/Newsroom/2025-Announcements/2025-12-19-300-Million-Announced-To-Support-Port-Infrastructure-Development"
+        }
+      }
+    ]
+  },
+  "technologyDeployments": {
+    "summary": "Technology deployment now matters primarily as evidence of operational maturity. The strongest signals remain private 5G and AI systems being implemented in environments where reliability, automation, safety, and coordination directly affect asset performance.",
+    "columns": [
+      "Deployment",
+      "Location",
+      "Technology",
+      "Operator or sponsor",
+      "Operational impact",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Deployment": "Private 5G across three UK ports",
+        "Location": "Felixstowe, Harwich, London Thamesport",
+        "Technology": "Private 5G",
+        "Operator or sponsor": "Three Group Solutions / Hutchison Ports UK",
+        "Operational impact": "Supports autonomous vehicles, remote cranes, and other automation-heavy workflows.",
+        "Source": {
+          "label": "Three Group Solutions",
+          "url": "https://groupsolutions.three.com/insights/three-group-solutions-completes-private-5g-network"
+        }
+      },
+      {
+        "Deployment": "Multi-site private 5G in freeport environment",
+        "Location": "Thames Freeport, UK",
+        "Technology": "Private 5G + industrial edge foundation",
+        "Operator or sponsor": "Verizon + Nokia + Thames Freeport",
+        "Operational impact": "Builds a connectivity layer for AI, automation, and real-time coordination across logistics sites.",
+        "Source": {
+          "label": "Verizon",
+          "url": "https://www.verizon.com/about/news/verizon-business-wins-multisite-private-5g-contract"
+        }
+      },
+      {
+        "Deployment": "AI safety platform rollout",
+        "Location": "Busan terminal, South Korea",
+        "Technology": "AI video analytics + safety monitoring",
+        "Operator or sponsor": "CyberLogitec / BNCT",
+        "Operational impact": "Pushes AI into preventive safety and incident reduction in terminal operations.",
+        "Source": {
+          "label": "Port Technology",
+          "url": "https://www.porttechnology.org/news/cyberlogitec-to-roll-out-ai-safety-platform-at-busan-terminal/"
+        }
+      },
+      {
+        "Deployment": "Smart-port scheduling and security showcase",
+        "Location": "Shandong Port Group, China",
+        "Technology": "AI scheduling + computer-vision-based security",
+        "Operator or sponsor": "Huawei + Shandong Port Group",
+        "Operational impact": "Suggests deeper convergence of AI planning, scheduling, and terminal safety systems.",
+        "Source": {
+          "label": "Port Technology / Huawei",
+          "url": "https://www.porttechnology.org/huawei-shandong-port-global-smart-port-showcase/"
+        }
+      }
+    ]
+  },
+  "risks": {
+    "summary": "Disruption risk remains broad rather than isolated. For infrastructure investors, that matters because it affects terminal utilization, working-capital assumptions, labor planning, fuel pass-through, and the value of resilience-oriented upgrades.",
+    "columns": [
+      "Event",
+      "Region",
+      "Potential logistics impact",
+      "Source"
+    ],
+    "rows": [
+      {
+        "Event": "Yard density, weather disruption, and Easter-related labor pressure",
+        "Region": "North Europe and Mediterranean",
+        "Potential logistics impact": "Longer dwell times, delayed cargo clearance, and schedule instability across European port networks.",
+        "Source": {
+          "label": "Maersk Europe Update",
+          "url": "https://www.maersk.com/ja-jp/news/articles/2026/04/01/europe-market-update-april"
+        }
+      },
+      {
+        "Event": "War-risk surcharge remains active",
+        "Region": "Upper Gulf, Arabian Gulf, Persian Gulf",
+        "Potential logistics impact": "Higher freight costs and continuing uncertainty in routing economics for exposed trades.",
+        "Source": {
+          "label": "Hapag-Lloyd WRS",
+          "url": "https://www.hapag-lloyd.com/en/services-information/news/2026/03/shipping-from-upper-gulf--arabian-gulf--and-persian-gulf--a-war-.html"
+        }
+      },
+      {
+        "Event": "Middle East disruption continues to pressure multimodal networks",
+        "Region": "Global shipping and airfreight corridors",
+        "Potential logistics impact": "Further pass-through into freight pricing, route variability, and planning complexity for trade-linked infrastructure.",
+        "Source": {
+          "label": "Financial Times",
+          "url": "https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2"
+        }
+      },
+      {
+        "Event": "Funding readiness gap persists",
+        "Region": "U.S. ports",
+        "Potential logistics impact": "Projects without permitting and execution readiness may miss near-term public-capital windows.",
+        "Source": {
+          "label": "MARAD PIDP",
+          "url": "https://www.maritime.dot.gov/PIDPgrants"
+        }
+      }
+    ]
+  },
+  "narratives": {
+    "summary": "The investor narrative is tightening around two ideas: first, capital still prefers infrastructure with hard operating relevance; second, technology must now prove that it can improve performance in live environments. That continues to support a PE and infrastructure-focused briefing rather than a VC-style innovation narrative.",
+    "columns": [
+      "Narrative theme",
+      "Supporting signals",
+      "Why investors care"
+    ],
+    "rows": [
+      {
+        "Narrative theme": "Terminal infrastructure remains a preferred allocation",
+        "Supporting signals": "Stonepeak-CMA CGM JV",
+        "Why investors care": "Scarce gateway assets continue to attract large-scale institutional capital."
+      },
+      {
+        "Narrative theme": "Public funding is still steering modernization timing",
+        "Supporting signals": "USDOT awards, NYSERDA, PIDP, Saint John",
+        "Why investors care": "Funding windows and public-private alignment are still driving execution order."
+      },
+      {
+        "Narrative theme": "Private 5G is becoming a core operating layer",
+        "Supporting signals": "Hutchison UK and Thames Freeport deployments",
+        "Why investors care": "Connectivity is increasingly tied to automation and reliability, not experimentation."
+      },
+      {
+        "Narrative theme": "AI diligence has shifted to post-pilot execution",
+        "Supporting signals": "Busan rollout, Shandong showcase, and pilot-to-scale critique",
+        "Why investors care": "Investors care whether AI survives integration into live operating systems."
+      },
+      {
+        "Narrative theme": "Disruption resilience remains part of core underwriting",
+        "Supporting signals": "Maersk Europe update, Hapag-Lloyd war-risk pricing, FT shipping disruption coverage",
+        "Why investors care": "Freight instability continues to affect throughput, cost, and infrastructure value capture."
+      }
+    ]
+  },
+  "andrewLinkedInPost": {
+    "title": "From modernization momentum to operating resilience",
+    "body": "One of the clearest logistics infrastructure signals this week is that the market is rewarding operating proof, not just infrastructure intent. The latest U.S. federal port awards reinforce that public capital is still moving, but the more important question is where that capital is producing durable operating outcomes. Port Saint John remains a useful benchmark because modernization has already started to show up in throughput. At the same time, private 5G deployments in UK ports and continued pressure across European and Gulf-linked trade lanes are reinforcing the same point from another angle. Investors are not just backing infrastructure. They are backing infrastructure that can perform better under strain. That makes the diligence lens more practical than conceptual. The key question is less about who has the most technology and more about which assets, networks, and operating models are converting investment into resilient performance." 
+  },
+  "quaychainPost": {
+    "title": "This week’s infrastructure signal",
+    "body": "This week’s logistics infrastructure picture is straightforward: modernization funding is still moving, private 5G deployments are becoming more operational, and completed upgrades like Port Saint John are starting to show measurable throughput gains. At the same time, European network pressure and Gulf-linked surcharges continue to keep resilience central to underwriting. For investors and infrastructure advisors, the relevant filter is practical: which assets can convert capital into reliable operating performance under real-world pressure?"
+  },
+  "engagementTopics": {
+    "summary": "The strongest discussion areas this week are the ones where Andrew can add an infrastructure and execution lens rather than a vendor narrative.",
+    "columns": [
+      "Topic",
+      "Link",
+      "Why it matters",
+      "Suggested comment"
+    ],
+    "rows": [
+      {
+        "Topic": "Terminal infrastructure transactions",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/content/?keywords=Stonepeak%20CMA%20CGM%20terminals"
+        },
+        "Why it matters": "Investors are still discussing terminal valuation, control, and asset scarcity.",
+        "Suggested comment": "This continues to look like an asset-quality and strategic-location story, with institutional capital following infrastructure that is difficult to replicate."
+      },
+      {
+        "Topic": "Port modernization with measurable throughput outcomes",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/content/?keywords=Port%20Saint%20John%20DP%20World%20modernization"
+        },
+        "Why it matters": "Saint John remains a useful operating benchmark after major modernization spend.",
+        "Suggested comment": "The strongest modernization signals are the ones that show up in volume growth, service reliability, and network relevance rather than in project language alone."
+      },
+      {
+        "Topic": "AI after the pilot stage",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/content/?keywords=AI%20rollouts%20in%20logistics%20pilot%20scale"
+        },
+        "Why it matters": "Investors remain wary of deployments that do not survive production conditions.",
+        "Suggested comment": "Pilot success matters less than whether the deployment can integrate into workflows and continue producing value under live operating pressure."
+      }
+    ]
+  },
+  "communities": {
+    "summary": "Public LinkedIn communities and pages remain the most reliable channels for investor-adjacent visibility.",
+    "columns": [
+      "Community",
+      "Size",
+      "Link",
+      "Why relevant"
+    ],
+    "rows": [
+      {
+        "Community": "CSCMP",
+        "Size": "87,605 followers",
+        "Link": {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/cscmp"
+        },
+        "Why relevant": "Strong supply chain and infrastructure audience with analyst overlap."
+      },
+      {
+        "Community": "Xeneta",
+        "Size": "26,644 followers",
+        "Link": {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/xeneta-as/"
+        },
+        "Why relevant": "Useful freight-market and pricing discussion with investor relevance."
+      },
+      {
+        "Community": "Supply Chain & Logistics Group",
+        "Size": "20,352 followers",
+        "Link": {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/company/supply-chain-%26-logistics-group"
+        },
+        "Why relevant": "Broad logistics audience that still captures capital-flow and modernization discussion."
+      }
+    ]
+  },
+  "outreachTargets": {
+    "summary": "These remain the most relevant investor and analyst targets for this week’s signal set.",
+    "columns": [
+      "Name",
+      "Role",
+      "Organization",
+      "Link",
+      "Why relevant"
+    ],
+    "rows": [
+      {
+        "Name": "James Wyper",
+        "Role": "Senior Managing Director, Transport & Logistics",
+        "Organization": "Stonepeak",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/people/?keywords=James%20Wyper%20Stonepeak"
+        },
+        "Why relevant": "Closely tied to the lead infrastructure-capital transaction."
+      },
+      {
+        "Name": "Lars Jensen",
+        "Role": "CEO / Maritime Analyst",
+        "Organization": "Vespucci Maritime",
+        "Link": {
+          "label": "LinkedIn",
+          "url": "https://dk.linkedin.com/in/larsjensenvespuccimaritime"
+        },
+        "Why relevant": "High-signal perspective on shipping economics and network disruption."
+      },
+      {
+        "Name": "Peter Sand",
+        "Role": "Chief Analyst",
+        "Organization": "Xeneta",
+        "Link": {
+          "label": "LinkedIn search",
+          "url": "https://www.linkedin.com/search/results/people/?keywords=Peter%20Sand%20Xeneta"
+        },
+        "Why relevant": "Relevant for freight-rate, surcharge, and corridor-risk interpretation."
+      }
+    ]
+  },
+  "newsletterIdea": {
+    "title": "From funding awards to operating proof in logistics infrastructure",
+    "description": "A weekly briefing connecting terminal capital, fresh federal awards, private 5G deployment, and live evidence of modernization translating into throughput and resilience.",
+    "whyInvestorsShouldRead": "It keeps the focus on durable infrastructure outcomes and post-rollout execution quality rather than announcement flow."
+  },
+  "executionChecklist": [
+    {
+      "day": "Monday",
+      "actions": [
+        "Publish Andrew LinkedIn post."
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "actions": [
+        "Engage in terminal JV, port modernization, and AI pilot-to-scale discussion threads."
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "actions": [
+        "Comment once in a LinkedIn community from the target list."
+      ]
+    },
+    {
+      "day": "Thursday",
+      "actions": [
+        "Publish a short X thread on why operating proof matters more than modernization announcements alone."
+      ]
+    },
+    {
+      "day": "Friday",
+      "actions": [
+        "Send outreach to 2-3 investor and analyst targets with a message focused on durable operating performance."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Stonepeak / CMA CGM terminal JV",
+      "url": "https://stonepeak.com/news/cma-cgm-and-stonepeak-announce-groundbreaking-terminal-joint-venture-united-ports-llc"
+    },
+    {
+      "label": "USDOT nearly half-billion port investment announcement",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-department-announces-nearly-half-billion-investment-americas"
+    },
+    {
+      "label": "MARAD PIDP",
+      "url": "https://www.maritime.dot.gov/PIDPgrants"
+    },
+    {
+      "label": "DP World Port Saint John volume growth",
+      "url": "https://www.globenewswire.com/news-release/2026/03/10/3252884/0/en/DP-World-s-Port-Saint-John-Terminal-Drives-29-Container-Volume-Growth-in-2025.html"
+    },
+    {
+      "label": "Port Saint John modernization completion",
+      "url": "https://www.sjport.com/news/port-saint-john-marks-modernization-completion"
+    },
+    {
+      "label": "NYSERDA port infrastructure solicitation",
+      "url": "https://www.nyserda.ny.gov/About/Newsroom/2025-Announcements/2025-12-19-300-Million-Announced-To-Support-Port-Infrastructure-Development"
+    },
+    {
+      "label": "Maersk Europe market update April 2026",
+      "url": "https://www.maersk.com/ja-jp/news/articles/2026/04/01/europe-market-update-april"
+    },
+    {
+      "label": "Hapag-Lloyd war-risk surcharge",
+      "url": "https://www.hapag-lloyd.com/en/services-information/news/2026/03/shipping-from-upper-gulf--arabian-gulf--and-persian-gulf--a-war-.html"
+    },
+    {
+      "label": "Three Group Solutions private 5G network",
+      "url": "https://groupsolutions.three.com/insights/three-group-solutions-completes-private-5g-network"
+    },
+    {
+      "label": "Verizon Thames Freeport private 5G",
+      "url": "https://www.verizon.com/about/news/verizon-business-wins-multisite-private-5g-contract"
+    },
+    {
+      "label": "Port Technology Busan AI safety platform",
+      "url": "https://www.porttechnology.org/news/cyberlogitec-to-roll-out-ai-safety-platform-at-busan-terminal/"
+    },
+    {
+      "label": "Port Technology Huawei Shandong smart port showcase",
+      "url": "https://www.porttechnology.org/huawei-shandong-port-global-smart-port-showcase/"
+    },
+    {
+      "label": "The Supply Chainer on AI after the pilot",
+      "url": "https://www.thesupplychainer.com/post/opinion-ai-rollouts-in-logistics-what-actually-happens-after-the-pilot"
+    },
+    {
+      "label": "Financial Times on shipping disruption",
+      "url": "https://www.ft.com/content/69f0f8a4-2567-44f4-a7b7-6ce4c62ab0e2"
+    }
+  ]
+}
