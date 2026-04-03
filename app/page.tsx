@@ -30,39 +30,11 @@ export default function HomePage() {
               </Link>
             </div>
           </div>
-          <div className="hero-side">
-            <div className="metric-card">
-              <span className="kicker">Publishing model</span>
-              <strong>Content-driven</strong>
-              <span className="muted">
-                Each weekly run adds one immutable report file to the repo.
-              </span>
-            </div>
-            <div className="metric-card">
-              <span className="kicker">Archive</span>
-              <strong>{getAllReports().length} reports</strong>
-              <span className="muted">
-                Rendered automatically from JSON in <code>content/reports/</code>.
-              </span>
-            </div>
-          </div>
         </div>
       </section>
 
       <section className="content-grid" aria-label="Overview and summary">
         <div className="stack">
-          <div className="card">
-            <span className="sec-label" style={{ marginBottom: 12 }}>
-              About this site
-            </span>
-            <h2>Why this site exists</h2>
-            <p>
-              The site is built for autonomous weekly publishing. Automation can
-              generate a report file, commit it to GitHub, and deploy the latest
-              issue without hand-tuning the layout.
-            </p>
-          </div>
-
           <div className="card">
             <span className="sec-label" style={{ marginBottom: 12 }}>
               Recent issues

@@ -172,15 +172,6 @@ main {
 .hero-inner {
   position: relative;
   z-index: 1;
-  display: grid;
-  gap: 0;
-  grid-template-columns: 1fr;
-}
-
-@media (min-width: 900px) {
-  .hero-inner {
-    grid-template-columns: 1.35fr 0.85fr;
-  }
 }
 
 .hero-main {
@@ -188,13 +179,10 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border-right: 1px solid var(--gray-200);
 }
 
 @media (max-width: 899px) {
   .hero-main {
-    border-right: 0;
-    border-bottom: 1px solid var(--gray-200);
     padding: 36px 24px 28px;
   }
 }
@@ -264,44 +252,6 @@ main {
   color: var(--black);
 }
 
-.hero-side {
-  padding: 32px 28px;
-  background: var(--white);
-  display: flex;
-  flex-direction: column;
-  gap: 14px;
-  justify-content: center;
-}
-
-@media (max-width: 899px) {
-  .hero-side {
-    padding: 24px;
-  }
-}
-
-.metric-card {
-  border: 1px solid var(--gray-200);
-  border-radius: 4px;
-  padding: 18px 16px;
-  background: var(--white);
-}
-
-.metric-card .kicker {
-  display: block;
-  margin-bottom: 4px;
-}
-
-.metric-card strong {
-  display: block;
-  font-family: var(--font-d);
-  font-size: 22px;
-  font-weight: 400;
-  color: var(--black);
-  margin: 6px 0 4px;
-  letter-spacing: -0.02em;
-}
-
-.metric-card .muted,
 .card .muted,
 .report-section .muted {
   font-size: 12px;
